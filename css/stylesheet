@@ -1,8 +1,12 @@
-h1{
-color: blue;
-text-decoration: underline;
-}
-h3{
-    color: rebeccapurple;
-    text-align: center;
-}
+h1 {
+    color: blue;
+    text-decoration: underline;
+    }
+    p {
+        color: rebeccapurple;
+        text-align: center;
+    }
+    body {
+    color: darkcyan;
+    }
+    
