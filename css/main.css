@@ -7,6 +7,9 @@ h1{
         text-align: center;
     }
     body {
-    color: darkcyan;
+    background-color: darkcyan;
+    }
+    img {
+        align-self: center;
     }
     
