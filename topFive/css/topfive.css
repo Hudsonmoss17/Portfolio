@@ -1,0 +1,41 @@
+
+@font-face {
+    font-family: 'w95fa';
+    src: url('w95fa.woff') format('woff');
+    src:url('w95fa.woff2') format('woff2');
+}
+li{
+    color: white;
+    text-align: center;
+    font-size: large;
+    font-family: 'win95fa';
+}
+body{
+margin: 0;
+padding: 0;
+background-color: rgb(7, 48, 48);
+}
+h1{
+    color: white;
+    font-family: 'w95fa';
+    text-align: center;
+}
+.imgmain{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 50%;
+}
+p{
+    text-align: center;
+    color: white;
+    font-family: 'w95fa';
+}
+#links{
+    text-align: center;
+    font-family: 'w95fa';
+    font-size: large;
+    
+}
+  

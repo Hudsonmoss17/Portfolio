@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'w95fa';
+    src: url('w95fa.woff') format('woff');
+    src:url('w95fa.woff2') format('woff2');
+}
+h4{
+    color: white;
+    text-align: center;
+    font-size: large;
+    font-family: 'win95fa';
+}
+body{
+color: white;
+background-color: rgb(7, 48, 48);
+font-family: 'w95fa';
+text-align: center;
+
+}
